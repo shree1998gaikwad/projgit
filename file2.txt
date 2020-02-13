@@ -1,5 +1,7 @@
 this is file for cr1
 
-helooo....github!!!
+1.helooo....github!!!
 
-change by my teammate on remote repo for testing
+2.change by my teammate on remote repo for testing
+
+3.chnage by teammate to test rebase on remote repo(on )
